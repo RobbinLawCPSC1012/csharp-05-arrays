@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\bin\Debug\16-arrays-methods-AnalyzeNumbers.exe.config
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\bin\Debug\16-arrays-methods-AnalyzeNumbers.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\bin\Debug\16-arrays-methods-AnalyzeNumbers.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\obj\Debug\16-arrays-methods-AnalyzeNumbers.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\obj\Debug\16-arrays-methods-AnalyzeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\obj\Debug\16-arrays-methods-AnalyzeNumbers.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\16-arrays-methods-AnalyzeNumbers\obj\Debug\16-arrays-methods-AnalyzeNumbers.pdb

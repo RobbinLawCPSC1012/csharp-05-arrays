@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\bin\Debug\24-arrays-methods-Sorting.exe.config
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\bin\Debug\24-arrays-methods-Sorting.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\bin\Debug\24-arrays-methods-Sorting.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\obj\Debug\24-arrays-methods-Sorting.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\obj\Debug\24-arrays-methods-Sorting.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\obj\Debug\24-arrays-methods-Sorting.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\24-arrays-methods-Sorting\obj\Debug\24-arrays-methods-Sorting.pdb

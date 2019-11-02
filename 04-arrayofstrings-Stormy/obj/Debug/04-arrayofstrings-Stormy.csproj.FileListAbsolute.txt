@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\bin\Debug\04-arrayofstrings-Stormy.exe.config
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\bin\Debug\04-arrayofstrings-Stormy.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\bin\Debug\04-arrayofstrings-Stormy.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\obj\Debug\04-arrayofstrings-Stormy.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\obj\Debug\04-arrayofstrings-Stormy.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\obj\Debug\04-arrayofstrings-Stormy.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\04-arrayofstrings-Stormy\obj\Debug\04-arrayofstrings-Stormy.pdb

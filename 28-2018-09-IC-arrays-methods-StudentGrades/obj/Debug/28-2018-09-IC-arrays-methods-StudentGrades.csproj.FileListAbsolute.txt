@@ -1,0 +1,6 @@
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\bin\Debug\28-2018-09-IC-arrays-methods-StudentGrades.exe.config
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\bin\Debug\28-2018-09-IC-arrays-methods-StudentGrades.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\bin\Debug\28-2018-09-IC-arrays-methods-StudentGrades.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\obj\Debug\28-2018-09-IC-arrays-methods-StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\obj\Debug\28-2018-09-IC-arrays-methods-StudentGrades.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\28-2018-09-IC-arrays-methods-StudentGrades\obj\Debug\28-2018-09-IC-arrays-methods-StudentGrades.pdb

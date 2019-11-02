@@ -1,0 +1,7 @@
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\bin\Debug\08-arrayofdoubles-AnalyzeNumbers.exe.config
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\bin\Debug\08-arrayofdoubles-AnalyzeNumbers.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\bin\Debug\08-arrayofdoubles-AnalyzeNumbers.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\obj\Debug\08-arrayofdoubles-AnalyzeNumbers.csprojAssemblyReference.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\obj\Debug\08-arrayofdoubles-AnalyzeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\obj\Debug\08-arrayofdoubles-AnalyzeNumbers.exe
+C:\Users\robbi\Source\Repos\csharp-05-arrays\08-arrayofdoubles-AnalyzeNumbers\obj\Debug\08-arrayofdoubles-AnalyzeNumbers.pdb
