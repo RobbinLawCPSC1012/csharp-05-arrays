@@ -17,6 +17,7 @@ namespace _16_arrays_methods_AnalyzeNumbers
             double[] arr = new double[size];
             for (int i = 0; i < size; i++)
             {
+                Console.WriteLine($"Enter next number");
                 arr[i] = double.Parse(Console.ReadLine());
             }
 

@@ -15,7 +15,7 @@ namespace _04_arrayofstrings_Stormy
             int[] myIntArray = {1, 2, 4, 7};
             double[] myDoubleArray = {3.4, 6.8, 88.88};
 
-           string[] stormStrength =
+            string[] stormStrength =
             {
                 "No Hurricane. It's just windy yo.",
                 "HURRICANE --- Category 1",

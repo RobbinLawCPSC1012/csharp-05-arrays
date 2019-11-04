@@ -5,3 +5,9 @@ C:\Users\robbi\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCard
 C:\Users\robbi\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.exe
 C:\Users\robbi\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.pdb
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\bin\Debug\12-arrayofintsandstrings-DeckOfCards.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\bin\Debug\12-arrayofintsandstrings-DeckOfCards.exe
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\bin\Debug\12-arrayofintsandstrings-DeckOfCards.pdb
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.exe
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\12-arrayofintsandstrings-DeckOfCards\obj\Debug\12-arrayofintsandstrings-DeckOfCards.pdb
