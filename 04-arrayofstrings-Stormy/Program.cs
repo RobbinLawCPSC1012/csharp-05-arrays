@@ -10,7 +10,12 @@ namespace _04_arrayofstrings_Stormy
     {
         static void Main(string[] args)
         {
-           string[] STORM_STRENGTH =
+
+            char[] myCharArray = {'c', 'd', 'e'};
+            int[] myIntArray = {1, 2, 4, 7};
+            double[] myDoubleArray = {3.4, 6.8, 88.88};
+
+           string[] stormStrength =
             {
                 "No Hurricane. It's just windy yo.",
                 "HURRICANE --- Category 1",
@@ -35,7 +40,7 @@ namespace _04_arrayofstrings_Stormy
             else if (speed > 155)
                 stormLevel = 5;
 
-            string stormString = STORM_STRENGTH[stormLevel];
+            string stormString = stormStrength[stormLevel];
             Console.WriteLine($"STORM LEVEL: {stormString}");
         }
     }
