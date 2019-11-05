@@ -1,0 +1,7 @@
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\bin\Debug\20-2017-09-IC4-arrays-methods-Reverse.exe.config
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\bin\Debug\20-2017-09-IC4-arrays-methods-Reverse.exe
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\bin\Debug\20-2017-09-IC4-arrays-methods-Reverse.pdb
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\obj\Debug\20-2017-09-IC4-arrays-methods-Reverse.csprojAssemblyReference.cache
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\obj\Debug\20-2017-09-IC4-arrays-methods-Reverse.csproj.CoreCompileInputs.cache
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\obj\Debug\20-2017-09-IC4-arrays-methods-Reverse.exe
+C:\Users\RobbinL\Source\Repos\csharp-05-arrays\20-2017-09-IC4-arrays-methods-Reverse\obj\Debug\20-2017-09-IC4-arrays-methods-Reverse.pdb
