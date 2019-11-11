@@ -58,7 +58,7 @@ namespace _32_arrays_vs_lists_StudentManager
 
                 Console.WriteLine("Add another? y/n");
 
-                if (Console.ReadLine() != "y")
+                if (Console.ReadLine() == "n")
                     adding = false;
             }
 

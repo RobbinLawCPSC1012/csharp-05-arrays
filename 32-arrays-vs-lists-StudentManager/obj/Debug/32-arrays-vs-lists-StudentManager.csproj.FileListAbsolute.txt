@@ -4,3 +4,4 @@ C:\Users\robbi\Source\Repos\csharp-05-arrays\32-arrays-vs-lists-StudentManager\b
 C:\Users\robbi\Source\Repos\csharp-05-arrays\32-arrays-vs-lists-StudentManager\obj\Debug\32-arrays-vs-lists-StudentManager.csproj.CoreCompileInputs.cache
 C:\Users\robbi\Source\Repos\csharp-05-arrays\32-arrays-vs-lists-StudentManager\obj\Debug\32-arrays-vs-lists-StudentManager.exe
 C:\Users\robbi\Source\Repos\csharp-05-arrays\32-arrays-vs-lists-StudentManager\obj\Debug\32-arrays-vs-lists-StudentManager.pdb
+C:\Users\robbi\Source\Repos\csharp-05-arrays\32-arrays-vs-lists-StudentManager\obj\Debug\32-arrays-vs-lists-StudentManager.csprojAssemblyReference.cache
