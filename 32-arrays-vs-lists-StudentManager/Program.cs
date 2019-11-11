@@ -7,8 +7,7 @@ using System.Threading.Tasks;
 namespace _32_arrays_vs_lists_StudentManager
 {
     class Program
-    {
-        
+    { 
         static void Main(string[] args)
         {
             withArrays();
