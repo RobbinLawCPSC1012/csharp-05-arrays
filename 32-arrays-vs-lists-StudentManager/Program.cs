@@ -64,7 +64,7 @@ namespace _32_arrays_vs_lists_StudentManager
 
             for (int i = 0; i < studentNames.Count; i++)
             {
-                Console.WriteLine("Name: {0}, Grade: {1}", studentNames[i], studentGrades[i]);
+                Console.WriteLine($"Name: {studentNames[i]}, Grade: {studentGrades[i]}");
             }
         }
     }
